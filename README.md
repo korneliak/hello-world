@@ -1,3 +1,3 @@
 # hello-world
 
-Doing this instead of learning. Priorities, good Priorities are essencial.
+Doing this instead of learning. Priorities, good priorities, they are essencial.
